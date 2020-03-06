@@ -1,0 +1,22 @@
+plugin_routing:
+  modules:
+    nxos_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    nxos_l2_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    nxos_l3_interface:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    nxos_linkagg:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
+    nxos_vlan:
+      deprecation:
+        removal_date: TBD
+        warning_text: see plugin documentation for details
